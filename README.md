@@ -25,8 +25,6 @@ match value:
 
 🧪 Practice Example:
 python
-Copy
-Edit
 def check_day(day):
     match day:
         case "Monday":
